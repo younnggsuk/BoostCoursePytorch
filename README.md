@@ -15,3 +15,5 @@ edwith boostcourse의 [파이토치로 시작하는 딥러닝 기초](https://ww
 - [Lab-07-1 Tips](./ch1_basic_ml/lab_7_1_tips.ipynb)
 - [Lab-07-2 MNIST Introduction](./ch1_basic_ml/lab_7_2_mnist_introduction.ipynb)
 
+### Part 2. DNN
+- [Lab-08-1 Perceptron](./ch2_dnn/lab_8_1_xor.ipynb)
