@@ -1,2 +1,5 @@
 # Dataset
 datasets/
+
+# Jupyter Notebook
+.ipynb_checkpoints
