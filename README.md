@@ -25,3 +25,6 @@ edwith boostcourse의 [파이토치로 시작하는 딥러닝 기초](https://ww
 
 ### 프로젝트 A. Deep Neural Network
 - [패션 분류기 만들기(Fashion MNIST Classifier)](./project_dnn/pytorch-dnn-project.ipynb)
+
+### Part 3. CNN
+- [Lab-10-2 Mnist CNN](./ch3_cnn/lab_10_2_mnist_cnn.ipynb)
