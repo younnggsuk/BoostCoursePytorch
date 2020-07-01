@@ -17,3 +17,11 @@ edwith boostcourse의 [파이토치로 시작하는 딥러닝 기초](https://ww
 
 ### Part 2. DNN
 - [Lab-08-1 Perceptron](./ch2_dnn/lab_8_1_xor.ipynb)
+- [Lab-08-2 Multi Layer Perceptron](./ch2_dnn/lab_8_2_multi_layer_perceptron.ipynb)
+- [Lab-09-1 ReLU](./ch2_dnn/lab_9_1_relu.ipynb)
+- [Lab-09-2 Weight initialization](./ch2_dnn/lab_9_2_weight_initialization.ipynb)
+- [Lab-09-3 Dropout](./ch2_dnn/lab_9_3_dropout.ipynb)
+- [Lab-09-4 Batch Normalization](./ch2_dnn/lab_9_4_batch_normalization.ipynb)
+
+### 프로젝트 A. Deep Neural Network
+- [패션 분류기 만들기(Fashion MNIST Classifier)](./project_dnn/pytorch-dnn-project.ipynb)

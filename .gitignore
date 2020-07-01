@@ -3,3 +3,7 @@ datasets/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Project A
+project_dnn/data/
+project_dnn/check_util
