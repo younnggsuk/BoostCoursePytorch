@@ -28,3 +28,4 @@ edwith boostcourse의 [파이토치로 시작하는 딥러닝 기초](https://ww
 
 ### Part 3. CNN
 - [Lab-10-2 Mnist CNN](./ch3_cnn/lab_10_2_mnist_cnn.ipynb)
+- [Lab-10-4 ImageFolder](./ch3_cnn/lab_10_4_image_folder.ipynb)
