@@ -7,3 +7,6 @@ datasets/
 # Project A
 project_dnn/data/
 project_dnn/check_util
+
+# models
+models/
