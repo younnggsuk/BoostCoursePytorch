@@ -29,3 +29,8 @@ edwith boostcourse의 [파이토치로 시작하는 딥러닝 기초](https://ww
 ### Part 3. CNN
 - [Lab-10-2 Mnist CNN](./ch3_cnn/lab_10_2_mnist_cnn.ipynb)
 - [Lab-10-4 ImageFolder](./ch3_cnn/lab_10_4_image_folder.ipynb)
+- [Lab-10-5 Advance CNN(VGG)](./ch3_cnn/lab_10_5_vgg.ipynb)
+- [Lab-10-6 Advanced CNN(ResNet)](./ch3_cnn/lab_10_6_resnet.ipynb)
+
+### 프로젝트 B. Convolutional Neural Network
+- [개-고양이 분류기 만들기(Cat-Dog Classifier)](./project_cnn/pytorch-cnn-project.ipynb)
