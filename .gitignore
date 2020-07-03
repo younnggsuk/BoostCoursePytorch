@@ -1,12 +1,17 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
 # Dataset
 datasets/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# models
+models/
 
 # Project A
 project_dnn/data/
 project_dnn/check_util
 
-# models
-models/
+# Project B
+project_cnn/data/
+project_cnn/check_util
+project_cnn/saved
