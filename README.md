@@ -34,3 +34,6 @@ edwith boostcourse의 [파이토치로 시작하는 딥러닝 기초](https://ww
 
 ### 프로젝트 B. Convolutional Neural Network
 - [개-고양이 분류기 만들기(Cat-Dog Classifier)](./project_cnn/pytorch-cnn-project.ipynb)
+
+### Transfer Learning (Pytorch Tutorial)
+- [Transfer Learning](./transfer_learning/transfer_learning.ipynb)
